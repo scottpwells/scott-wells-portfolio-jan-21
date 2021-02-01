@@ -1,0 +1,47 @@
+[
+    {
+        "project_id": 1, 
+        "project_name": "Food Truck Chasers",
+        "project_git": "https://github.com/scottpwells/FoodTruck-Chasers",
+        "project_deploy": "https://glacial-ocean-57671.herokuapp.com/",
+        "project_image": "",
+        "project_tech": ["sequelize", "node.js", "Handlebars", "express", "Javascript", " zurb foundation"]
+    
+    }
+
+    {
+        "project_id": 1, 
+        "project_name": "Net Time Traveler",
+        "project_git": "https://github.com/scottpwells/project-1",
+        "project_deploy": "https://scottpwells.github.io/project-1/",
+        "project_image": "",
+        "project_tech": ["html", "BootStrap CSS", "JavaScript", "express"]
+    
+    }
+
+    {
+        "project_id": 1, 
+        "project_name": "Daily Planner",
+        "project_git": "https://github.com/scottpwells/daily-planner",
+        "project_deploy": "https://scottpwells.github.io/daily-planner/",
+        "project_image": "",
+        "project_tech": ["html", "BootStrap CSS", "JavaScript", "express"]
+    
+    }
+
+    {
+        "project_id": 1, 
+        "project_name": "Budget Planner ",
+        "project_git": "https://github.com/scottpwells/budget-app",
+        "project_deploy": "https://floating-brushlands-76659.herokuapp.com/",
+        "project_image": "",
+        "project_tech": ["Progressive Web Application", "html", "Bootstrap CSS", "JavaScript", "MongoDB",]
+    
+    }
+
+
+
+
+
+
+]
