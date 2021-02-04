@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import projects from "../projects.json";
 import ProjectCard from "../components/ProjectCard"
-// import Wrapper from '../components/Wrapper';
-//import NavBar from "../components/NavBar";
+
 
 
 

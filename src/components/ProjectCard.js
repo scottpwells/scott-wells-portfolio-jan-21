@@ -5,7 +5,7 @@ import "./ProjectCard.css"
 
 const ProjectCard = (props) => {
     return (
-  <div style={{border:"solid"}} className="card">
+  <div className="card">
   <img src={props.Thumbnail} className="card-img-top" alt="Project"/>
   <div className="card-body">
     <h5 className="card-title">{props.title}</h5>

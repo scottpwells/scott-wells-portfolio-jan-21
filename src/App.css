@@ -1,7 +1,25 @@
 
 body{
-background-color: #C8C8C8;
+background-color:#212529;
+color: #ffff;
 
 }
+.image-a{
+    float: left;
+    margin: 8px;
+}
+
+.hero-home{
+    background-image: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+links{
+    color: #ffff;
+}
+
 
 

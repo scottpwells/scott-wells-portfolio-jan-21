@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
+import Hero from "../assets/images/webdevelopment1500.png";
+import "../App.css";
 
 
 class Home extends Component {
     render() {
         return (
             <div>
-         I am not the home component
+         <img src={Hero} className="hero-home" alt="pencil pens webdevelopment portfolio"/>
+
+  
             </div>
         );
         
