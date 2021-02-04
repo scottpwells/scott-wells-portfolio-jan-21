@@ -1,13 +1,31 @@
 
 import React from "react";
-import ProjectCard from "./components/ProjectCard"
+
+
+import "./App.css"
+
+import Footer from "./components/Footer"
+ import NavBar from "./components/NavBar";
+
 
 function App() {
   return (
-    <div className="App">
-     <h1>{Props.ProjectCard}</h1>
-    </div>
+
+    <div>
+      <NavBar/>
+     
+      
+
+  
+    <Footer />
+   
+    
+
+</div>
+
+
   );
 }
 
 export default App;
+

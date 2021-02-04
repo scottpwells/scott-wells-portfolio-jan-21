@@ -4,44 +4,58 @@
         "project_name": "Food Truck Chasers",
         "project_git": "https://github.com/scottpwells/FoodTruck-Chasers",
         "project_deploy": "https://glacial-ocean-57671.herokuapp.com/",
-        "project_image": "",
+        "project_image": "https://user-images.githubusercontent.com/57837212/102561206-1a984b00-40a2-11eb-8d58-de181881e629.PNG",
         "project_tech": ["sequelize", "node.js", "Handlebars", "express", "Javascript", " zurb foundation"]
     
-    }
-
+    },
     {
-        "project_id": 1, 
+        "project_id": 2, 
         "project_name": "Net Time Traveler",
         "project_git": "https://github.com/scottpwells/project-1",
         "project_deploy": "https://scottpwells.github.io/project-1/",
-        "project_image": "",
+        "project_image": "https://github.com/scottpwells/project-1/blob/main/assets/image/Screenshot_1.png?raw=true",
         "project_tech": ["html", "BootStrap CSS", "JavaScript", "express"]
     
-    }
+    },
 
     {
-        "project_id": 1, 
+        "project_id": 3, 
         "project_name": "Daily Planner",
         "project_git": "https://github.com/scottpwells/daily-planner",
         "project_deploy": "https://scottpwells.github.io/daily-planner/",
-        "project_image": "",
+        "project_image": "https://github.com/scottpwells/daily-planner/raw/main/Daily-planner-screenshot.PNG",
         "project_tech": ["html", "BootStrap CSS", "JavaScript", "express"]
     
-    }
+    },
 
     {
-        "project_id": 1, 
-        "project_name": "Budget Planner ",
+        "project_id": 4, 
+        "project_name": "Budget Planner",
         "project_git": "https://github.com/scottpwells/budget-app",
         "project_deploy": "https://floating-brushlands-76659.herokuapp.com/",
-        "project_image": "",
-        "project_tech": ["Progressive Web Application", "html", "Bootstrap CSS", "JavaScript", "MongoDB",]
+        "project_image": "https://user-images.githubusercontent.com/57837212/104829244-e306f500-583f-11eb-8d7d-83fa884f3985.PNG",
+        "project_tech": ["Progressive Web Application", "html", "Bootstrap CSS", "JavaScript", "MongoDB"]
+    
+    },
+
+    {
+        "project_id": 5, 
+        "project_name": "Password Generator",
+        "project_git": "https://github.com/scottpwells/Password-Generator",
+        "project_deploy": "https://scottpwells.github.io/Password-Generator/",
+        "project_image": "https://user-images.githubusercontent.com/57837212/97462905-96cda800-1915-11eb-8118-7353985f90db.PNG",
+        "project_tech": ["html", "BootStrap CSS", "JavaScript"]
+    
+    },
+    {
+        "project_id": 6, 
+        "project_name": "Employee Directory",
+        "project_git": "https://github.com/scottpwells/employee-directory",
+        "project_deploy": "https://scottpwells.github.io/employee-directory/",
+        "project_image": "https://user-images.githubusercontent.com/57837212/106068185-2843e600-60ce-11eb-9325-2963d121b3ba.PNG",
+        "project_tech": ["React", "BootStrap CSS", "Axios"]
     
     }
-
-
-
-
 
 
 ]
