@@ -13,11 +13,9 @@
   ## Description
 React Responsive Portfolio is a display of all my web development work, bio and in it is a react front end application utilizing React, React Router, and is deployed on Git Hub Pages.
 
-![employee-directory-screen](https://user-images.githubusercontent.com/57837212/106068185-2843e600-60ce-11eb-9325-2963d121b3ba.PNG)
+![portfoliohome page read me](https://user-images.githubusercontent.com/57837212/107081097-2c53c000-67c0-11eb-85d5-8002adfc5e32.PNG)
 
- 
-
-  [websitelink](https://scottpwells.github.io/employee-directory/)
+  [websitelink](https://scottpwells.github.io/scott-wells-portfolio-jan-21/)
 
 
   ## Usage
