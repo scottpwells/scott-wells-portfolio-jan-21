@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "![github](https://img.shields.io/badge/license-APACHE%202.0-blue.svg)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottpwells/scott-wells-portfolio-jan-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottpwells/scott-wells-portfolio-jan-21/issues"
   }
 }
