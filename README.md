@@ -31,4 +31,4 @@ As a recruiter or customer I want a page where I can view Scott Wells's bio and 
   $ npm run tests
   
   ## Questions
-  Any questions please contact me by email: [Scott-Wells](scottpwells@gmail.com)
+  Any questions please contact me by email: scottpwells@gmail.com
