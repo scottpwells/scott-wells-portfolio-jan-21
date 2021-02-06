@@ -1,6 +1,7 @@
 import React from 'react';
+import "./Footer.css"
 
-const footer = () => {
+const Footer = () => {
     return (
       <footer>
 <div class="navbar navbar-inverse navbar-fixed-bottom">
@@ -12,4 +13,4 @@ const footer = () => {
     );
 };
 
-export default footer;
+export default Footer;

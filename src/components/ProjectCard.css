@@ -8,10 +8,10 @@
 h1{
    font-size: 12pt;
 }
- .container-fluid {
+ .container {
    flex-wrap: wrap;
  }
 
- .card-tex{
+ .card-text{
     color: #ffff;
  }
