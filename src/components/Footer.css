@@ -1,7 +1,7 @@
 
 footer {
-   position: fixed;
-   height: 5px;
+   position: relative;
+   height: 50px;
    left: 0;
    bottom: 0;
    width: 100%;
