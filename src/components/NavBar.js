@@ -1,7 +1,8 @@
 import React from 'react';
 import "./NavBar.css"
-import { BrowserRouter as Router, Route, Switch,} from "react-router-dom";
-import logo from "../assets/images/logo_transparent-300.png"
+// import { BrowserRouter as Router, Route, Switch,} from "react-router-dom";
+import { HashRouter, Route,} from "react-router-dom";
+import logo from "../assets/images/logo_transparent-300.png";
 
 import Home from '../pages/Home';
 import Portfolio from '../pages/Portfolio';
@@ -10,7 +11,7 @@ import About from '../pages/About';
 
 const NavBar = (props) => {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <HashRouter basename='/'>
   <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
   <div className="container-fluid">
@@ -38,14 +39,14 @@ const NavBar = (props) => {
   </div>
 </nav>
 </div>
-        <Switch>
+       
       <Route exact path="/" component={Home} />
       <Route  path="/About" component={About} />
       <Route path="/Portfolio" component={Portfolio} />
       {/* <Route path="/Contact" component={Contact} /> */}
-    </Switch>
+  
 
-      </Router>
+    </HashRouter>
     );
 };
 
