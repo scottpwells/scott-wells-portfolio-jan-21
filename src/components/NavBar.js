@@ -10,7 +10,7 @@ import About from '../pages/About';
 
 const NavBar = (props) => {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
   <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
   <div className="container-fluid">
