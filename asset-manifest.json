@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/scott-wells-portfolio-jan-21/static/css/main.971d8aba.chunk.css",
-    "main.js": "/scott-wells-portfolio-jan-21/static/js/main.8039f676.chunk.js",
-    "main.js.map": "/scott-wells-portfolio-jan-21/static/js/main.8039f676.chunk.js.map",
+    "main.css": "/scott-wells-portfolio-jan-21/static/css/main.b1adfbd2.chunk.css",
+    "main.js": "/scott-wells-portfolio-jan-21/static/js/main.b83f7a7f.chunk.js",
+    "main.js.map": "/scott-wells-portfolio-jan-21/static/js/main.b83f7a7f.chunk.js.map",
     "runtime-main.js": "/scott-wells-portfolio-jan-21/static/js/runtime-main.ccaa068b.js",
     "runtime-main.js.map": "/scott-wells-portfolio-jan-21/static/js/runtime-main.ccaa068b.js.map",
     "static/js/2.09795132.chunk.js": "/scott-wells-portfolio-jan-21/static/js/2.09795132.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.e6801cd1.chunk.js": "/scott-wells-portfolio-jan-21/static/js/3.e6801cd1.chunk.js",
     "static/js/3.e6801cd1.chunk.js.map": "/scott-wells-portfolio-jan-21/static/js/3.e6801cd1.chunk.js.map",
     "index.html": "/scott-wells-portfolio-jan-21/index.html",
-    "static/css/main.971d8aba.chunk.css.map": "/scott-wells-portfolio-jan-21/static/css/main.971d8aba.chunk.css.map",
+    "static/css/main.b1adfbd2.chunk.css.map": "/scott-wells-portfolio-jan-21/static/css/main.b1adfbd2.chunk.css.map",
     "static/js/2.09795132.chunk.js.LICENSE.txt": "/scott-wells-portfolio-jan-21/static/js/2.09795132.chunk.js.LICENSE.txt",
     "static/media/webdevelopment1600.b047b5b7.png": "/scott-wells-portfolio-jan-21/static/media/webdevelopment1600.b047b5b7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ccaa068b.js",
     "static/js/2.09795132.chunk.js",
-    "static/css/main.971d8aba.chunk.css",
-    "static/js/main.8039f676.chunk.js"
+    "static/css/main.b1adfbd2.chunk.css",
+    "static/js/main.b83f7a7f.chunk.js"
   ]
 }
